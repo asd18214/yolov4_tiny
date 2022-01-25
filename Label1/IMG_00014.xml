@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_0001 (4).JPG</filename>
+	<path>C:\Users\USER\Desktop\obj\train\IMG_0001 (4).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4320</width>
+		<height>3240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AP</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>388</xmin>
+			<ymin>1378</ymin>
+			<xmax>1215</xmax>
+			<ymax>2323</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>AP</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1225</xmin>
+			<ymin>1685</ymin>
+			<xmax>2298</xmax>
+			<ymax>2420</ymax>
+		</bndbox>
+	</object>
+</annotation>

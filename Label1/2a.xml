@@ -1,0 +1,14 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>2a.jpg</filename>
+	<path>C:\Users\ES402b\Desktop\yolov4-tiny-pytorch-master\VOCdevkit\VOC2007\JPEGImages\2a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1800</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
