@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>JPEGImages</folder>
+	<filename>IMG20200804152147.jpg</filename>
+	<path>C:\Users\ES402b\Desktop\yolov4-tiny-pytorch-master\VOCdevkit\VOC2007\JPEGImages\IMG20200804152147.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4160</width>
+		<height>2340</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AP</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>983</ymin>
+			<xmax>2662</xmax>
+			<ymax>2301</ymax>
+		</bndbox>
+	</object>
+</annotation>
